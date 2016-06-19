@@ -1,5 +1,0 @@
-DATABASE = os.path.join("/home/zhoulei/python_test/flaskr", 'flaskr.db')
-DEBUG = True
-SECRET_KEY = 'development key'
-USERNAME = 'admin'
-PASSWORD = 'password'
